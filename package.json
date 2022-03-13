@@ -7,7 +7,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "build-lib": "vue-cli-service build --target lib --name v6k-ui-kit src/main.js"
+    "build-lib": "vue-cli-service build --target lib --name v6k-ui-kit src/main.js",
+    "test": "echo \"No tests specified.\""
   },
   "dependencies": {
     "core-js": "^3.6.5",
