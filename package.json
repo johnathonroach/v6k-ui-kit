@@ -1,6 +1,6 @@
 {
   "name": "v6k-ui-kit",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "private": true,
   "main": "./dist/v6k-ui-kit.common.js",
   "scripts": {
